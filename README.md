@@ -12,4 +12,12 @@ A list of commands I don't use regularly enough to remember from the top of my h
 - revert commited changes: `git reset HEAD~1`
 - revert committed changes and **delete** changes: `git reset --hard HEAD~1`
 
+## Rails
+- Open app db: `rails db`
+
+## PSQL
+- List databases: `\l`
+- List tables: `\d`
+- List table columns: `\d table_name`
+
 
