@@ -7,6 +7,7 @@ A list of commands I don't use regularly enough to remember from the top of my h
 - hide dot files `defaults write com.apple.finder AppleShowAllFiles NO`
 - `&&` concatonate commands
 
-# Git
+## Git
+- First Aid Git [http://firstaidgit.io/#/]
 
 
