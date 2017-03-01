@@ -8,6 +8,6 @@ A list of commands I don't use regularly enough to remember from the top of my h
 - `&&` concatonate commands
 
 ## Git
-- First Aid Git [http://firstaidgit.io/#/]
+- [First Aid Git](http://firstaidgit.io/#/)
 
 
