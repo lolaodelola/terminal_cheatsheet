@@ -1,13 +1,15 @@
 # Terminal Cheatsheat
 
-A list of commands I don't use regularly enough to remember from the top of my head
+A list of commands I don't use regularly enough to remember from the top of my head, spesific to MacOS.
 
 ## Bash
-- show dot files `defaults write com.apple.finder AppleShowAllFiles YES`
-- hide dot files `defaults write com.apple.finder AppleShowAllFiles NO`
-- `&&` concatonate commands
+- show dot files: `defaults write com.apple.finder AppleShowAllFiles YES`
+- hide dot files: `defaults write com.apple.finder AppleShowAllFiles NO`
+- concatonate commands: `&&`
 
 ## Git
-- [First Aid Git](http://firstaidgit.io/#/)
+- Find easily forgettable commands: [First Aid Git](http://firstaidgit.io/#/)
+- revert commited changes: `git reset HEAD~1`
+- revert committed changes and **delete** changes: `git reset --hard HEAD~1`
 
 
